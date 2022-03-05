@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STAR_Pattern_Examples", "Pattern_Examples\STAR_Pattern_Examples.csproj", "{BC136E1B-F938-4F2C-B618-F710D99C2021}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUMBER_Pattren_Examples", "NUMBER_Pattren_Examples\NUMBER_Pattren_Examples.csproj", "{4BA972FD-F058-4043-ABF3-3EB5722DD8ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC136E1B-F938-4F2C-B618-F710D99C2021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC136E1B-F938-4F2C-B618-F710D99C2021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC136E1B-F938-4F2C-B618-F710D99C2021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC136E1B-F938-4F2C-B618-F710D99C2021}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BA972FD-F058-4043-ABF3-3EB5722DD8ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BA972FD-F058-4043-ABF3-3EB5722DD8ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BA972FD-F058-4043-ABF3-3EB5722DD8ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BA972FD-F058-4043-ABF3-3EB5722DD8ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD555B21-FC77-4317-8590-599B2C5A3DDA}
+	EndGlobalSection
+EndGlobal
